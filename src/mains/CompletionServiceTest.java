@@ -9,7 +9,7 @@ import java.util.concurrent.Executors;
 import task.Task;
 
 public class CompletionServiceTest {
-   private static int NUM_OF_TASKS = 50;
+   private static int NUM_OF_TASKS = 500;
 
    public CompletionServiceTest() {}
 

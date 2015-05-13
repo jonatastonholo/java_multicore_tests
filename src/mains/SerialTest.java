@@ -3,7 +3,7 @@ package mains;
 import task.Task;
 
 public class SerialTest {
-	   private static int NUM_OF_TASKS = 50;
+	   private static int NUM_OF_TASKS = 500;
 
 	   public SerialTest () {}
 

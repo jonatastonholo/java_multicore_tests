@@ -10,7 +10,7 @@ import java.util.concurrent.Future;
 import task.Task;
 
 public class ExecutorServiceTest {
-   private static int NUM_OF_TASKS = 50;
+   private static int NUM_OF_TASKS = 500;
 
    public ExecutorServiceTest() {}
 

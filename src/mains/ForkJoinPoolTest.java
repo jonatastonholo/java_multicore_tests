@@ -13,7 +13,7 @@ import task.FJTask;
 public class ForkJoinPoolTest {
 
    public ForkJoinPoolTest() {}
-   private static int numOfTasks = 50;
+   private static int numOfTasks = 1000;
 
    public void run() {
       long begTest = new java.util.Date().getTime();
